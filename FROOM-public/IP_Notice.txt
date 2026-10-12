@@ -1,0 +1,17 @@
+FROOM – Intellectual Property Notice
+------------------------------------
+
+The FROOM paradigm (conceptual description, high-level architecture, and papers)
+is made publicly accessible for discussion and evaluation.
+
+However, the FROOM technology itself remains fully proprietary. This includes,
+without limitation:
+
+- runtime mechanisms
+- operator machine
+- scheduling and freeze mechanisms
+- drift detection and comparison logic
+- emergence interpretation
+- implementation details, source code, and internal tooling
+
+No rights to the underlying implementation are granted by this repository.
