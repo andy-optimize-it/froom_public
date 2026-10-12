@@ -6,7 +6,7 @@ a structurally deterministic approach to LLM-based systems.
 ## Contents
 
 - `papers/FROOM_Paradigm.md` – Paradigm paper
-- `papers/FROOM_Whitepaper.p` – Whitepaper
+- `papers/FROOM_Whitepaper.md` – Whitepaper
 - `media/FROOM_Film.*` – Explanatory film (link or file)
 
 The paradigm is public. The underlying technology remains proprietary.
