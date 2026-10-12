@@ -1,17 +1,43 @@
-FROOM – Intellectual Property Notice
-------------------------------------
+This document defines the FROOM paradigm at the conceptual level. It describes
+the operator-world ontology, the conceptual world model, and the structural
+relations among operators, states, transitions, paths, and emergence
+interpretation. These descriptions are purely conceptual and do not disclose
+any implementation, mechanism, or proprietary runtime design.
 
-The FROOM paradigm (conceptual description, high-level architecture, and papers)
-is made publicly accessible for discussion and evaluation.
+Not disclosed are:
+- concrete implementations
+- algorithms or algorithmic structures
+- operator spaces or operator semantics used in any real system
+- runtime mechanisms, runtime architecture, or execution internals
+- sequencing logic, ordering logic, or execution control mechanisms
+- freeze mechanisms or stability mechanisms used in any implementation
+- drift detection mechanisms or drift-handling logic
+- project phases, development stages, or system-specific component designs
+- internal architecture, internal interfaces, or internal data structures
+- any proprietary mechanisms, tools, or runtime behaviors
 
-However, the FROOM technology itself remains fully proprietary. This includes,
-without limitation:
+No rights to any implementation, runtime, operator space, or mechanism are
+granted by this document. The paradigm is disclosed solely at the conceptual
+level. All concrete implementations remain fully proprietary and subject to
+their applicable intellectual-property rights, licensing terms, and usage
+restrictions.
 
-- runtime mechanisms
-- operator machine
-- scheduling and freeze mechanisms
-- drift detection and comparison logic
-- emergence interpretation
-- implementation details, source code, and internal tooling
+Nothing in this document grants:
+- permission to implement the paradigm internally or externally,
+- permission to derive or infer runtime mechanisms,
+- permission to reverse-engineer any system that uses the paradigm,
+- permission to construct operator spaces or execution structures based on the
+  conceptual descriptions,
+- permission to use the paradigm for commercial, technical, or runtime
+  purposes.
 
-No rights to the underlying implementation are granted by this repository.
+No implicit licenses are granted. No technical disclosure is made. The paradigm
+is presented at full conceptual scope; all implementation details remain
+confidential and protected.
+
+This document does not constitute certification, validation, or performance
+claims for any system. It does not describe safety mechanisms, correctness
+criteria, or operational guarantees. These remain domain-specific obligations
+outside the scope of the paradigm.
+
+All rights reserved.
