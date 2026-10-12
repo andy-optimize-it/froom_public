@@ -1,0 +1,7 @@
+FROOM PUBLIC PARADIGM AND PROPRIETARY TECHNOLOGY NOTICE
+
+The FROOM paradigm and the materials in this repository describing it are public. Those materials are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license, subject to the terms in LICENSE.
+
+The technology that implements the FROOM paradigm is separate and proprietary. This includes, without limitation, the runtime, operator machine, software, source code, and implementation details. Nothing in this repository or in the Creative Commons license grants any right, license, or access to that proprietary technology.
+
+The Creative Commons license applies only to material for which the relevant rights holder has authority to grant those rights. It does not grant patent or trademark rights, nor does it alter the proprietary status of the implementation technology.
