@@ -1,0 +1,14 @@
+This document defines the FROOM paradigm at the conceptual level.
+
+Not disclosed are:
+Implementations
+Algorithms
+Operator spaces
+Runtime mechanisms
+Sequencing logic
+Freeze mechanisms
+Drift detection
+Project phases
+Internal architecture
+
+Concrete implementation details remain proprietary and subject to applicable intellectual-property rights and terms.
