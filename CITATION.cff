@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "FROOM Public Paradigm Materials"
+message: "Please cite this repository when using the FROOM paradigm materials in academic or scientific work."
+type: dataset
+
+authors:
+  - family-names: "Andreas Bender"
+    given-names: ""
+    affiliation: "FROOM Deterministic Paradigm"
+    orcid: ""
+
+abstract: >
+  Public conceptual materials for the FROOM deterministic paradigm, including
+  architecture descriptions, operator-based modeling concepts, structured
+  paradigm documentation, and explanatory materials. This repository contains
+  only public-facing conceptual content without proprietary implementation
+  details.
+
+keywords:
+  - deterministic execution
+  - FROOM paradigm
+  - operator-based modeling
+  - abstract simulation
+  - EPC ecosystem
+  - conceptual architecture
+  - deterministic paradigm research
+
+license: "CC-BY-NC-4.0"
+
+repository-code: "https://github.com/froom-deterministic-paradigm/froom_public"
+
+version: "1.0.0-public"
+date-released: "2026-10-15"
+
+preferred-citation:
+  type: article
+  title: "FROOM: A Deterministic Paradigm for Structured Operator-Based Execution Models"
+  authors:
+    - family-names: "Andreas Bender"
+      given-names: ""
+  journal: "FROOM Deterministic Paradigm – Public Materials"
+  year: 2026
+  url: "https://github.com/froom-deterministic-paradigm/froom_public"
